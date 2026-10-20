@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: /
+Disallow:
 Sitemap: https://bergamo-2026.cebre.us/sitemap.xml
