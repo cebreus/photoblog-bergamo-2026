@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="Photoblog Bergamo 2026" version="1.1">
+  <metadata>
+    <name>Po stopách Lorenza Lotta v Bergamu</name>
+    <desc>Renesanční sakrální procházka za vrcholnými oltářními díly Lorenza Lotta v Bergamu</desc>
+  </metadata>
+  <wpt lat="45.698512" lon="9.675807"><name>Chiesa di Santo Spirito</name><desc>Pala di Santo Spirito (1521)</desc></wpt>
+  <wpt lat="45.700231" lon="9.674717"><name>Chiesa di San Bernardino in Pignolo</name><desc>Madona se svatými a andělem (1521)</desc></wpt>
+  <wpt lat="45.695300" lon="9.671800"><name>Chiesa dei Santi Bartolomeo e Stefano</name><desc>Pala Martinengo (1516)</desc></wpt>
+  <wpt lat="45.703422" lon="9.662322"><name>Santa Maria Maggiore</name><desc>Dřevěné intarzie v chóru</desc></wpt>
+  <trk>
+    <name>Po stopách Lorenza Lotta v Bergamu</name>
+    <trkseg>
+      <trkpt lat="45.698512" lon="9.675807"><ele>250</ele></trkpt>
+      <trkpt lat="45.700231" lon="9.674717"><ele>260</ele></trkpt>
+      <trkpt lat="45.697500" lon="9.673000"><ele>252</ele></trkpt>
+      <trkpt lat="45.695300" lon="9.671800"><ele>248</ele></trkpt>
+      <trkpt lat="45.699000" lon="9.667000"><ele>265</ele></trkpt>
+      <trkpt lat="45.703422" lon="9.662322"><ele>365</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

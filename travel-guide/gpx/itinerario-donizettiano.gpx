@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="Photoblog Bergamo 2026" version="1.1">
+  <metadata>
+    <name>Itinerario Donizettiano · Bergamo</name>
+    <desc>Trasa po stopách Gaetana Donizettiho z Città Bassa do Borgo Canale</desc>
+  </metadata>
+  <wpt lat="45.695267" lon="9.670892"><name>Teatro Donizetti</name><desc>Piazza Cavour</desc></wpt>
+  <wpt lat="45.700500" lon="9.668500"><name>Funicolare Città Bassa</name><desc>Dolní stanice lanovky</desc></wpt>
+  <wpt lat="45.703200" lon="9.661800"><name>Domus Magna &amp; Museo Donizettiano</name><desc>Via Arena 9</desc></wpt>
+  <wpt lat="45.703422" lon="9.662322"><name>Santa Maria Maggiore</name><desc>Hrob Gaetana Donizettiho</desc></wpt>
+  <wpt lat="45.706288" lon="9.656124"><name>Casa Natale di Gaetano Donizetti</name><desc>Via Borgo Canale 14</desc></wpt>
+  <trk>
+    <name>Itinerario Donizettiano</name>
+    <trkseg>
+      <trkpt lat="45.695267" lon="9.670892"><ele>248</ele></trkpt>
+      <trkpt lat="45.697200" lon="9.669800"><ele>252</ele></trkpt>
+      <trkpt lat="45.700500" lon="9.668500"><ele>270</ele></trkpt>
+      <trkpt lat="45.703000" lon="9.664500"><ele>350</ele></trkpt>
+      <trkpt lat="45.703200" lon="9.661800"><ele>360</ele></trkpt>
+      <trkpt lat="45.703422" lon="9.662322"><ele>365</ele></trkpt>
+      <trkpt lat="45.704800" lon="9.659000"><ele>360</ele></trkpt>
+      <trkpt lat="45.706288" lon="9.656124"><ele>355</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

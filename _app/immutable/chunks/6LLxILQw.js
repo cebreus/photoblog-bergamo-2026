@@ -1,0 +1,1 @@
+import{r as e}from"./CURMX6Cd.js";var t=()=>`Načítání mapy…`,n=()=>`Loading map…`,r=((r={},i={})=>(i.locale??e())===`en`?n(r):t(r)),i=()=>`Přiblížit mapu`,a=()=>`Zoom in on the map`,o=((t={},n={})=>(n.locale??e())===`en`?a(t):i(t)),s=()=>`Oddálit mapu`,c=()=>`Zoom out of the map`,l=((t={},n={})=>(n.locale??e())===`en`?c(t):s(t));export{o as n,r,l as t};
