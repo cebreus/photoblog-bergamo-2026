@@ -1,10 +1,10 @@
 {
   "version": 3,
   "plannerVersion": 1,
-  "snapshotId": "fac53e653c9abfa51cfde3647bc3970a9512976dda8b046d67919491e74625e9",
+  "snapshotId": "a1f16d2258a26a70c17462e1864d6aeb41770866dc647c2db8c979830063f128",
   "gallery": "bergamo-2026",
-  "updatedAt": "2026-10-14T15:25:48.237Z",
-  "locationsSha256": "10c842cae368bd1632f18beb854a6e7f4acda23fea5322d659592469e64a16a9",
+  "updatedAt": "2026-10-22T16:19:33.250Z",
+  "locationsSha256": "6abe145a6e5d5c44d0c837719970d8f5aaf40f83fdfa6456a061674f5d09cd1f",
   "byZoom": {
     "0": 1,
     "1": 4,
@@ -17,13 +17,13 @@
     "8": 9,
     "9": 9,
     "10": 9,
-    "11": 25,
-    "12": 25,
-    "13": 25,
-    "14": 49,
-    "15": 49,
-    "16": 49,
-    "17": 49
+    "11": 35,
+    "12": 35,
+    "13": 35,
+    "14": 63,
+    "15": 78,
+    "16": 108,
+    "17": 160
   },
   "layers": {
     "street": {
@@ -32,11 +32,11 @@
       "mimeType": "image/png",
       "path": "map-tiles-street",
       "attribution": "© CARTO; © OpenStreetMap contributors",
-      "offlinePermissionEvidence": "Technical trial authorised by the repository owner on 2026-07-24; provider licence remains pending; do not commit or distribute.",
+      "offlinePermissionEvidence": "Offline distribution approved by the repository owner on 2026-10-18 for this personal photoblog; no separate provider licence document is on file.",
       "sourceId": "carto-voyager-legacy-trial",
       "maxZoom": 17,
-      "expected": 1681,
-      "sha256": "b7a3ab0369b8177416fe0d68431273300b9338b22da8fc0ccd95399a5fbc12d4",
+      "expected": 1924,
+      "sha256": "c8aecbe687ab87e03b34087ebad181a3756155ed3fa8494bb9b7f45b048198e5",
       "acquiredAt": "2026-10-14T15:25:48.237Z"
     },
     "satellite": {
@@ -45,11 +45,11 @@
       "mimeType": "image/jpeg",
       "path": "map-tiles-satellite",
       "attribution": "© Esri — Source: Esri, Maxar, Earthstar Geographics, and the GIS User Community",
-      "offlinePermissionEvidence": "Technical trial authorised by the repository owner on 2026-07-24; provider licence remains pending; do not commit or distribute.",
+      "offlinePermissionEvidence": "Offline distribution approved by the repository owner on 2026-10-18 for this personal photoblog; no separate provider licence document is on file.",
       "sourceId": "esri-world-imagery-legacy-trial",
       "maxZoom": 16,
-      "expected": 1632,
-      "sha256": "6c8fd586bbd299035387246d33921377faa2d3225dce456e2f9a02b29537a29f",
+      "expected": 1764,
+      "sha256": "505e9e392a5580b168c8cf993029c3ddc5f9195978e720e55288c152bb101aaa",
       "acquiredAt": "2026-10-14T15:25:48.237Z"
     }
   }
