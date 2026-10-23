@@ -1,0 +1,1 @@
+import{r as e}from"./CURMX6Cd.js";var t=()=>`Satelit`,n=()=>`Satellite`,r=((r={},i={})=>(i.locale??e())===`en`?n(r):t(r)),i=()=>`Mapa`,a=()=>`Street map`,o=((t={},n={})=>(n.locale??e())===`en`?a(t):i(t));export{r as n,o as t};

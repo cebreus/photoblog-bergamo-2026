@@ -1,0 +1,1 @@
+import{et as e,xt as t,yt as n}from"./GorADlfG.js";var r=t(null),i={ask(t){return e(r)?.resolve(!1),new Promise(e=>{n(r,{...t,resolve:e},!0)})},get pending(){return e(r)},settle(t){e(r)?.resolve(t),n(r,null)}};export{i as t};

@@ -1,10 +1,10 @@
 {
   "version": 3,
   "plannerVersion": 1,
-  "snapshotId": "a1f16d2258a26a70c17462e1864d6aeb41770866dc647c2db8c979830063f128",
+  "snapshotId": "4a6627a87b9022e863e3329cd831c256be6a388cf8f9be7547c5f8e64036d7ce",
   "gallery": "bergamo-2026",
-  "updatedAt": "2026-10-22T16:19:33.250Z",
-  "locationsSha256": "6abe145a6e5d5c44d0c837719970d8f5aaf40f83fdfa6456a061674f5d09cd1f",
+  "updatedAt": "2026-10-22T22:57:00.013Z",
+  "locationsSha256": "eec37464db6cbd6507cc04463740c083d10fe0c4594854f65332faf900c95db7",
   "byZoom": {
     "0": 1,
     "1": 4,
@@ -21,9 +21,9 @@
     "12": 35,
     "13": 35,
     "14": 63,
-    "15": 78,
-    "16": 108,
-    "17": 160
+    "15": 79,
+    "16": 111,
+    "17": 182
   },
   "layers": {
     "street": {
@@ -35,8 +35,8 @@
       "offlinePermissionEvidence": "Offline distribution approved by the repository owner on 2026-10-18 for this personal photoblog; no separate provider licence document is on file.",
       "sourceId": "carto-voyager-legacy-trial",
       "maxZoom": 17,
-      "expected": 1924,
-      "sha256": "c8aecbe687ab87e03b34087ebad181a3756155ed3fa8494bb9b7f45b048198e5",
+      "expected": 1950,
+      "sha256": "64e6a16952917b59651fef4e184256437cfde8e751e6882c15a40e5b7354d5e4",
       "acquiredAt": "2026-10-14T15:25:48.237Z"
     },
     "satellite": {
@@ -48,8 +48,8 @@
       "offlinePermissionEvidence": "Offline distribution approved by the repository owner on 2026-10-18 for this personal photoblog; no separate provider licence document is on file.",
       "sourceId": "esri-world-imagery-legacy-trial",
       "maxZoom": 16,
-      "expected": 1764,
-      "sha256": "505e9e392a5580b168c8cf993029c3ddc5f9195978e720e55288c152bb101aaa",
+      "expected": 1768,
+      "sha256": "2607d679ea2d1a1cd7d64ab2011625c67d4b7f0c1dc05f6db059bb3445c723c0",
       "acquiredAt": "2026-10-14T15:25:48.237Z"
     }
   }
