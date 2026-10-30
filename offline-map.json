@@ -1,29 +1,29 @@
 {
   "version": 3,
   "plannerVersion": 1,
-  "snapshotId": "4a6627a87b9022e863e3329cd831c256be6a388cf8f9be7547c5f8e64036d7ce",
+  "snapshotId": "6687e47b9ab2f2e2754556fa40a77dce800aa921f3385c955a42e95ad2c6f155",
   "gallery": "bergamo-2026",
-  "updatedAt": "2026-10-22T22:57:00.013Z",
-  "locationsSha256": "eec37464db6cbd6507cc04463740c083d10fe0c4594854f65332faf900c95db7",
+  "updatedAt": "2026-10-30T15:10:30.049Z",
+  "locationsSha256": "eb7e4d1d6174a6ee50bab0c5f4b390277ab78ad14b54bd16926b6e756b8e8729",
   "byZoom": {
     "0": 1,
     "1": 4,
     "2": 16,
-    "3": 64,
-    "4": 256,
-    "5": 1024,
-    "6": 9,
-    "7": 9,
-    "8": 9,
-    "9": 9,
-    "10": 9,
-    "11": 35,
-    "12": 35,
-    "13": 35,
-    "14": 63,
-    "15": 79,
-    "16": 111,
-    "17": 182
+    "3": 9,
+    "4": 9,
+    "5": 14,
+    "6": 14,
+    "7": 17,
+    "8": 18,
+    "9": 18,
+    "10": 18,
+    "11": 60,
+    "12": 60,
+    "13": 60,
+    "14": 112,
+    "15": 128,
+    "16": 160,
+    "17": 231
   },
   "layers": {
     "street": {
@@ -35,8 +35,8 @@
       "offlinePermissionEvidence": "Offline distribution approved by the repository owner on 2026-10-18 for this personal photoblog; no separate provider licence document is on file.",
       "sourceId": "carto-voyager-legacy-trial",
       "maxZoom": 17,
-      "expected": 1950,
-      "sha256": "64e6a16952917b59651fef4e184256437cfde8e751e6882c15a40e5b7354d5e4",
+      "expected": 949,
+      "sha256": "f0517d1e7c51030d4458c570dacfb335e752dc54c116cae611002a071f1fc7c0",
       "acquiredAt": "2026-10-14T15:25:48.237Z"
     },
     "satellite": {
@@ -48,8 +48,8 @@
       "offlinePermissionEvidence": "Offline distribution approved by the repository owner on 2026-10-18 for this personal photoblog; no separate provider licence document is on file.",
       "sourceId": "esri-world-imagery-legacy-trial",
       "maxZoom": 16,
-      "expected": 1768,
-      "sha256": "2607d679ea2d1a1cd7d64ab2011625c67d4b7f0c1dc05f6db059bb3445c723c0",
+      "expected": 718,
+      "sha256": "fb8dd9aaf4c909255bad9b0c09e6321b99de28b2d6c5fadd95ad70e9bfafd49c",
       "acquiredAt": "2026-10-14T15:25:48.237Z"
     }
   }
